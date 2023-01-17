@@ -4,4 +4,6 @@
 
 ![Screenshot_2023-01-17-23-39-12-57_1229cbb8abc856e8fb8ac1d12359fcc4 1](https://user-images.githubusercontent.com/77614770/212979228-6b354a5a-965d-40e6-ae3c-28c577255bf1.jpg)
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/77614770/212979228-6b354a5a-965d-40e6-ae3c-28c577255bf1.jpg" width="200" height="400" />
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/77614770/212979228-6b354a5a-965d-40e6-ae3c-28c577255bf1.jpg" width="200" height="400" />
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
