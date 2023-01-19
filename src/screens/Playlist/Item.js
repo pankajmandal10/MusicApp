@@ -27,8 +27,8 @@ export default function Item({route, navigation}) {
 
   const _play = async(id) => {
     console.log('id, playlistId',id, playlistId.id)
-    // await dispatch(itemPlay(id, playlistId.id));
-    dispatch(setUserPlaying(!playing))
+    await dispatch(itemPlay(id, playlistId.id));
+    // dispatch(setUserPlaying(!playing))
   };
   console.log('aaaa',items)
 
